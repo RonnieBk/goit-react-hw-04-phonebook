@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  gap: 7px;
+  border: grey 1px solid;
+  padding: 10px;
+}
+
+.formInput {
+  width: 200px;
+  margin-bottom: 12px;
+}
+
+.formLabel {
+  font-weight: 500;
+}
+
+.submitBtn {
+  width: 100px;
+}
